@@ -1,5 +1,7 @@
 kodstar en iyi programlama kaymağı
-
+pardon kaynağı
 python 
 java
 css
+react
+sql
